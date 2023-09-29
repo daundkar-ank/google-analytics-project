@@ -1,0 +1,15 @@
+.button {
+  background-color: #fc68a2;
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 1.25rem;
+  font-weight: 500;
+  min-width: 10rem;
+  min-height: 3rem;
+}
+
+.button_grid {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
